@@ -10,7 +10,7 @@ Agente TECH: Resuelve problemas de soporte técnico (VPN, contraseñas, polític
 
 Agente FINANCE: Procesa consultas de gastos, reembolsos, facturación y límites diarios.
 
-Plaintext
+```text
                   ┌──────────────────────┐
                   │ Consulta del Usuario │
                   └──────────┬───────────┘
