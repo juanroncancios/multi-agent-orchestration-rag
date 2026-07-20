@@ -1,0 +1,31 @@
+MANUAL DE POLÍTICAS FINANCIERAS Y REEMBOLSOS
+
+1. REEMBOLSO DE GASTOS Y VIÁTICOS
+Los gastos de viaje y representación deben ser legalizados dentro de los 5 días hábiles posteriores a la finalización del evento o desplazamiento.
+Todos los comprobantes de pago presentados para reembolso deben ser facturas electrónicas válidas a nombre de la empresa SaaS.
+No se reembolsarán gastos relacionados con consumo de bebidas alcohólicas, entretenimiento personal o compras no autorizadas previamente.
+El límite diario de alimentación durante viajes de negocios es de $60 USD distribuidos entre desayuno, almuerzo y cena.
+Los pasajes aéreos corporativos deben reservarse con al menos 14 días de anticipación mediante la agencia de viajes autorizada.
+El kilometraje por el uso de vehículo personal en labores de la empresa se reembolsa a una tarifa fija de $0.45 USD por kilómetro recorrido.
+Los reembolsos aprobados se abonarán directamente a la cuenta bancaria del empleado en el siguiente ciclo de nómina.
+Cualquier gasto superior a $200 USD requiere una orden de compra previa aprobada por el Gerente Financiero.
+
+2. FACTURACIÓN Y COBRANZAS A CLIENTES
+Las facturas de suscripción SaaS se emiten el primer día hábil de cada mes con un periodo de vencimiento neto de 30 días.
+Si un cliente incurre en una mora superior a 15 días, el sistema enviará alertas automáticas de cobro antes de la suspensión del servicio.
+La suspensión del acceso a la plataforma por falta de pago se ejecuta automáticamente al cumplir los 45 días de retraso en la factura.
+Las solicitudes de notas de crédito o ajustes en la facturación deben ser canalizadas a través del departamento de Contabilidad.
+Los pagos con tarjeta de crédito corporativa aplican un recargo por procesamiento del 2.5% sobre el valor total de la transacción.
+Los contratos con facturación anual anticipada reciben un descuento especial del 15% sobre la tarifa base de la suscripción.
+Los reembolsos a clientes por cancelación del servicio se calculan de forma prorrateada únicamente si la cancelación ocurre en los primeros 7 días.
+El área financiera realiza arqueos y conciliaciones bancarias los últimos tres días laborables de cada mes.
+
+3. PRESUPUESTOS Y COMPRAS DE PROVEEDORES
+Cada departamento debe operar estrictamente dentro del presupuesto anual asignado y aprobado durante la planeación financiera de Q4.
+Para la contratación de proveedores externos cuyo contrato supere los $5,000 USD anuales, se exige presentar un mínimo de 3 cotizaciones competitivas.
+Los pagos a proveedores se procesan exclusivamente los días jueves de cada semana previa recepción de la factura y la orden de entrada.
+Las modificaciones o adiciones presupuestales entre trimestres requieren la firma conjunta del Director del área y el CFO.
+Los activos fijos tecnológicos o mobiliario adquiridos deben ser inventariados y etiquetados por el área de Contabilidad.
+Cualquier suscripción a herramientas SaaS externas para uso de los equipos debe ser auditada por Finanzas para evitar duplicidad de licencias.
+Las transferencias bancarias internacionales están sujetas a la verificación previa de la mesa de control de divisas y cumplimiento normativo.
+El cierre contable mensual se realiza de forma definitiva el quinto día hábil del mes posterior.

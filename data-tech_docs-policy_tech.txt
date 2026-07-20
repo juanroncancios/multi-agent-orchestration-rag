@@ -1,0 +1,31 @@
+MANUAL DE SOPORTE TÉCNICO E INFRAESTRUCTURA IT
+
+1. ACCESO A REDES Y VPN
+Todo acceso remoto a la infraestructura interna exige el uso obligatorio de la VPN corporativa con autenticación de doble factor (2FA).
+Las credenciales de acceso a la VPN son personales e intransferibles; está prohibido compartirlas con terceros o compañeros de equipo.
+Si la VPN no conecta, el usuario debe verificar la sincronización de la hora del sistema y restablecer el token OTP en la aplicación móvil.
+El límite de sesiones simultáneas por usuario en la VPN está restringido a dos dispositivos autorizados.
+Las conexiones VPN inactivas durante más de 30 minutos se cerrarán automáticamente por razones de seguridad.
+Está prohibido el uso de redes Wi-Fi públicas no protegidas para acceder a los servidores de producción sin la VPN activa.
+El departamento de IT realiza auditorías semanales de los registros de acceso VPN para detectar patrones de conexión anómalos.
+Para solicitar acceso a segmentos de red restringidos, se requiere la aprobación por escrito del Líder de Seguridad de la Información.
+
+2. GESTIÓN DE HARDWARE Y EQUIPOS
+Los equipos de cómputo asignados a los empleados deben contar con el software antivirus corporativo actualizado y activo en todo momento.
+Cualquier falla física en la computadora portatil debe ser reportada mediante un ticket en el portal de soporte con nivel de prioridad medio.
+En caso de pérdida o robo del equipo, el empleado debe notificar al equipo de IT Security en un lapso no mayor a 2 horas para ejecutar el borrado remoto.
+Queda estrictamente prohibida la instalación de software no autorizado o sin licencia comercial dentro de las máquinas corporativas.
+La sustitución preventiva de equipos de cómputo se realiza cada 3 años según el plan de renovación tecnológica.
+Los monitores y periféricos adicionales deben solicitarse formalmente durante la primera semana de cada trimestre.
+Los mantenimientos preventivos de hardware se programan semestralmente y son de carácter obligatorio para todos los equipos.
+Los discos duros de todos los portátiles corporativos deben permanecer cifrados mediante BitLocker o FileVault.
+
+3. CREDENCIALES Y SERVICIOS CLOUD
+Las contraseñas de las cuentas corporativas deben cambiarse cada 90 días y cumplir con un mínimo de 16 caracteres, incluyendo símbolos y números.
+Queda prohibido almacenar contraseñas en archivos de texto plano, notas adhesivas o navegadores web sin cifrado; se debe usar el gestor de contraseñas oficial.
+El acceso a las consolas de administración de AWS, GCP o Azure está restringido únicamente al personal autorizado del equipo de DevOps.
+Los tokens de API y llaves privadas utilizadas en desarrollos deben gestionarse mediante el servicio de Secrets Manager autorizado.
+Si una cuenta institucional resulta comprometida, IT bloqueará preventivamente todas las sesiones activas del usuario.
+El acceso a los repositorios de código en GitHub requiere la habilitación obligatoria de llaves SSH y autenticación de dos factores.
+Las solicitudes de aumento de cuota en servicios Cloud deben contar con el visto bueno del Director de Tecnología (CTO).
+El aprovisionamiento de correos electrónicos y cuentas de software para nuevos empleados requiere un tiempo de procesamiento de 24 horas hábiles.

@@ -1,0 +1,31 @@
+MANUAL DE POLÍTICAS DE RECURSOS HUMANOS - SAAS ENTERPRISE
+
+1. POLÍTICA DE VACACIONES Y LICENCIAS
+Las vacaciones anuales pagadas se otorgan a razón de 15 días hábiles por cada año completo de servicio continuo.
+Las solicitudes de vacaciones deben enviarse mediante el portal interno de HR con al menos 30 días de anticipación.
+Las vacaciones no disfrutadas durante el periodo correspondiente podrán acumularse únicamente hasta por dos periodos consecutivos.
+En caso de enfermedad, el empleado debe presentar la incapacidad médica oficial emitida por la entidad de salud dentro de las 48 horas siguientes al inicio de la falta.
+La empresa otorga una licencia remunerada por paternidad de 2 semanas continuas posteriores al nacimiento o adopción.
+Las licencias por luto abarcan 5 días hábiles remunerados en caso de fallecimiento de familiares en primer grado de consanguinidad.
+La licencia por matrimonio concede 3 días hábiles continuos adicionales de descanso remunerado.
+Las licencias no remuneradas deben ser aprobadas directamente por el VP de Recursos Humanos y no podrán exceder los 6 meses.
+
+2. BENEFICIOS Y COMPENSACIÓN
+La estructura salarial se revisa anualmente en el mes de diciembre según la evaluación de desempeño y la inflación acumulada.
+El pago de la nómina se realiza de manera quincenal los días 15 y 30 de cada mes mediante transferencia bancaria.
+La empresa cubre el 100% de la prima del seguro médico prepagado para el empleado titular y un 50% para dependientes directos.
+Se otorga un estipendio mensual fijo de $100 USD para cobertura de servicios de internet y energía en modalidad de trabajo remoto.
+El bono de desempeño anual se calcula en función de los objetivos OKR alcanzados y los resultados financieros de la compañía.
+Los empleados tienen acceso a un fondo anual de $1,000 USD destinado exclusivamente a capacitaciones, cursos y certificaciones profesionales.
+El programa de referidos internos paga un bono de $500 USD por cada candidato contratado que cumpla exitosamente el periodo de prueba de 90 días.
+La empresa ofrece suscripción gratuita a gimnasios y plataformas de bienestar físico y mental para todos los empleados de tiempo completo.
+
+3. CÓDIGO DE CONDUCTA Y REGLAMENTO INTERNO
+Se exige el cumplimiento estricto de los horarios laborales acordados, manteniendo disponibilidad en las herramientas de comunicación interna.
+Está estrictamente prohibido el uso de herramientas de software o plataformas externas no autorizadas por el departamento de IT para el manejo de datos de clientes.
+Cualquier acto de acoso, discriminación o maltrato será objeto de investigación inmediata y puede ser causa de terminación unilateral del contrato.
+El consumo de sustancias psicoactivas o alcohol durante la jornada laboral o en las instalaciones de la empresa está rotundamente prohibido.
+Los empleados deben mantener la confidencialidad de la información estratégica y de los datos sensibles de los clientes durante y después de su relación laboral.
+Las políticas de vestimenta en las oficinas presenciales responden a un código casual profesional.
+Cualquier conflicto de interés debe ser reportado inmediatamente al comité de ética de la empresa.
+El incumplimiento reiterado de los entregables o la falta de asistencia injustificada
